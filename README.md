@@ -36,5 +36,10 @@ The dataset is publicly available on **BigQuery** under:
    - Libraries: `pandas`, `matplotlib`, `seaborn`.
 
 
+## **Dashboard**
+
+![Dashboard](./Dashboard.png)
+[Iowa Liquor Sales 2024 on Tableau Public](https://public.tableau.com/app/profile/anastasiia.zvonovska/viz/iowa_sales_2024/IOWALIQUORSALES2024)
+
 
 This project aims to guide marketing strategies, optimize inventory management, and identify high-performing product categories.
