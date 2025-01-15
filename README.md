@@ -34,6 +34,8 @@ The dataset is publicly available on **BigQuery** under:
 4. **Python**:
    - Connecting to Google BigQuery.
    - Libraries: `pandas`, `matplotlib`, `seaborn`.
+5. **Tableau**:
+   - Creating interactive data visualization
 
 
 ## **Dashboard**
